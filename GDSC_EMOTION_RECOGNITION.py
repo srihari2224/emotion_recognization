@@ -1,3 +1,10 @@
+
+
+#download train & test data set from : 
+#https://www.kaggle.com/datasets/msambare/fer2013
+
+
+
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from keras.models import Sequential
 from keras.layers import Dense,Dropout,Flatten
